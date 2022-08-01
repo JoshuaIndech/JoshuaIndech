@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoshuaIndech
-- 👀 I’m interested in Peoduct Development
+- 👀 I’m interested in Product Development
 - 🌱 I’m currently learning Google Cloud Services and Products
 - 💞️ I’m looking to collaborate on REal Time API development in cloud
 - 📫 How to reach me > Joshua.Indech@mckesson.com
